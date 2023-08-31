@@ -3,4 +3,5 @@
 void main()
 {
 printf("hello fycs");
+printf("hello this is updated");
 {
